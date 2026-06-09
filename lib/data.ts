@@ -78,7 +78,7 @@ export const experiences: Experience[] = [
   {
     company: "Tech Mahindra",
     role: "Associate Software Engineer",
-    duration: "Mar 2020 – Jan 2021",
+    duration: "Sep 2020 – Jan 2021",
     responsibilities: [
       "Application development using Java and enterprise frameworks",
       "Bug fixing and code optimization for production systems",
