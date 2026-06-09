@@ -123,7 +123,7 @@ export function Contact() {
               </div>
 
               <motion.a
-                href="/resume.pdf"
+                href="/resume.docx"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.02 }}
@@ -131,7 +131,7 @@ export function Contact() {
                 className="flex items-center justify-center gap-3 w-full px-6 py-4 rounded-2xl bg-gradient-to-r from-primary-600 to-accent-600 text-white font-semibold shadow-xl shadow-primary-500/25 hover:shadow-primary-500/40 transition-shadow"
               >
                 <Download size={20} />
-                Download Resume (PDF)
+                Download Resume (DOCX)
               </motion.a>
             </div>
           </ScrollReveal>

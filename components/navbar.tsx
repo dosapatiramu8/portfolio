@@ -91,7 +91,7 @@ export function Navbar() {
             </motion.button>
 
             <a
-              href="/resume.pdf"
+              href="/resume.docx"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:inline-flex items-center gap-2 px-4 py-2 text-sm font-medium rounded-xl bg-gradient-to-r from-primary-600 to-accent-600 text-white hover:from-primary-500 hover:to-accent-500 transition-all shadow-lg shadow-primary-500/25 hover:shadow-primary-500/40"
@@ -135,7 +135,7 @@ export function Navbar() {
                 </motion.a>
               ))}
               <a
-                href="/resume.pdf"
+                href="/resume.docx"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block mt-3 text-center px-4 py-3 text-sm font-medium rounded-xl bg-gradient-to-r from-primary-600 to-accent-600 text-white"
